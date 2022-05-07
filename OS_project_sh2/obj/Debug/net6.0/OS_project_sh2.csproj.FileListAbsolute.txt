@@ -1,0 +1,15 @@
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\OS_project_sh2.exe
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\OS_project_sh2.deps.json
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\OS_project_sh2.runtimeconfig.json
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\OS_project_sh2.dll
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\ref\OS_project_sh2.dll
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\bin\Debug\net6.0\OS_project_sh2.pdb
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.csproj.AssemblyReference.cache
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.AssemblyInfoInputs.cache
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.AssemblyInfo.cs
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.csproj.CoreCompileInputs.cache
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.dll
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\ref\OS_project_sh2.dll
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.pdb
+D:\FCI\second term\This year\OS_project_sh2\OS_project_sh2\obj\Debug\net6.0\OS_project_sh2.genruntimeconfig.cache
